@@ -18,6 +18,7 @@ This repository explores the factors influencing the success of movies on IMDB, 
 
 **Key Technologies and Skills**
 - Python
+- Power BI
 - Numpy
 - Pandas
 - Matplotlib
