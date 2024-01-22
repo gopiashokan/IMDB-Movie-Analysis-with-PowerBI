@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This repository explores the factors influencing the success of movies on IMDB, defined by high ratings. Movie producers, directors, and investors can gain valuable insights for informed decision-making in future projects. Join us on this open-ended exploration as we uncover the secrets behind the success of films in the dynamic world of cinema.
+We have developed an interactive Power BI dashboard to analyze the factors influencing IMDB movie success. Descriptive Statistical analysis of genres, language, duration, director, and budget, revealing the impact on IMDB scores. Provided valuable insights to producers, directors, and investors for decision-making in the film industry.
 
 
 **Table of Contents**
