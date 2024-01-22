@@ -1,4 +1,4 @@
-# IMDB Movie Analysis With PowerBI
+# IMDB Movie Analysis with Power BI
 
 **Introduction**
 
